@@ -24,7 +24,7 @@ An interactive to-do list application that allows users to manage tasks with due
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Interactive-ToDo-App.git
+   git clone https://github.com/sanketjadhav09/Interactive-ToDo-App.git
    ```
 2. Navigate to the project directory:
    ```bash
